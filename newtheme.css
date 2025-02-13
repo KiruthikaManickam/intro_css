@@ -1,0 +1,14 @@
+h3
+{
+    border:solid 3px brown;
+    background-color: aqua;
+}
+
+.newclass{
+
+    background-color: chocolate;
+    padding: 20px;
+}
+#newid{
+    color:blueviolet;
+}
